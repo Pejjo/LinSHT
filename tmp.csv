@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"D1";"Dual_Led_0605";1;"LED_Dual_ACAC";;;
+2;"C1";"C_0603";1;"C";;;
+3;"C2,C3,C4";"C_0603";3;"100n";;;
+4;"C6";"C_0603";1;"2u2";;;
+5;"D2";"D_SMB";1;"SMBJ28A";;;
+6;"D3";"D_MELF";1;"LL4001";;;
+7;"D4";"SOT-23";1;"NUP1105LT1G";;;
+8;"J1";"TerminalBlock_Pheonix_MPT-2.54mm_3pol";1;"Screw_Terminal_1x03";;;
+9;"L1";"C_0603";1;"600Ohm";;;
+10;"R1,R2";"R_0603";2;"1k";;;
+11;"U1";"UQFN-20-1EP_3x3mm_Pitch0.45mm";1;"ATTINY816-MFR";;;
+12;"U2";"SON100P300X300X110-7N";1;"SHT2x";;;
+13;"U3";"SOIC-8_3.9x4.9mm_Pitch1.27mm";1;"TJA1028TK";;;
+14;"REF**";"SHT-dustcap";1;"SHT-dustcap";;;
+15;"F1";"Fuse_SMD1206_Reflow";1;"125mA";;;
+16;"C5";"C_0805_3";1;"1000p 50V .4A";;;
+17;"J2";"Pin_Header_Straight_2x03_Pitch1.27mm_SMD";1;"CONN_02X03";;;

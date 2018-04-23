@@ -1,0 +1,4 @@
+C6-Byt till 0805, 50V rating
+U3-fel footp.
+
+AVR: Stencilöppning stor
